@@ -28,7 +28,7 @@ const TestimonialSection = () => {
   }, [testimonials]);
 
   return (
-    <div className=" lg:my-24 my-4">
+    <div className=" lg:my-24 my-12">
       <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
         {testimonials.length > 0 && (
           <div className="rounded-lg overflow-hidden border border-gray-300 bg-white shadow-lg">
