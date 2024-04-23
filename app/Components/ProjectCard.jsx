@@ -13,7 +13,7 @@ const ProjectCard = ({
       <div className="flex gap-2 items-center">
         <h2 className="text-xl font-semibold">{projectName}</h2>
       </div>
-      <p className="text-15px">{projectDescription}</p>
+      <p className="text-[15px]">{projectDescription}</p>
       <div className="absolute bottom-4 w-full flex flex-row items-start justify-start ">
         <span className="mr-2 flex flex-row items-center justify-start">
           <FaStar className="text-md text-green-400" />
