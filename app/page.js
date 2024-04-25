@@ -10,15 +10,17 @@ const page = () => {
   return (
     <div className=''>
       <Hero />
-      <div className='bg-gray-800'>
-      <About />
+      <div id='About' className='bg-gray-800'>
+      <About  />
       </div>
       <Skills />
-      <div className='bg-gray-800 lg:py-12'>
+      <div id='Projects' className='bg-gray-800 lg:py-12'>
       <Projects />
       </div>
+      <div id='Testimonials'>
       <Testimonials />
-      <div className='bg-gray-800 lg:pb-8 pt-4 pb-4'>
+      </div>
+      <div id='Contact' className='bg-gray-800 lg:pb-8 pt-4 pb-4'>
       <Contact/>
       </div>
     </div>
