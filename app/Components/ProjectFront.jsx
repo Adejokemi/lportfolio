@@ -41,7 +41,7 @@ const ProjectsFront = ({
         </div>
               </div>
         <div className="mt-2 p-2 bg-gray-800 rounded-md">
-          <p className="text-sm font-medium text-slate-900">
+          <p className="text-sm font-medium text-slate-800">
             Built with:
             <span className="text-xs font-semibold text-black">{tools}</span>
           </p>
