@@ -5,11 +5,15 @@ import { FaCheckCircle } from "react-icons/fa";
 const dummyTestimonials = [
   {
     quote: "I'm so happy with the service!",
-    author: "John Doe",
+    author: "Tobi ",
   },
   {
     quote: "Amazing work! Highly recommended.",
-    author: "Jane Smith",
+    author: "Blessing ",
+  },
+  {
+    quote: "A great team player, always paying attention to details.",
+    author: "Soliu Usman ",
   },
 ];
 
