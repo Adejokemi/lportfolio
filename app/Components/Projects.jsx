@@ -10,7 +10,7 @@ const ProjectFront = [
     projectName: "Cabash Exchange",
     description:
       "Cabash Exchange, a Pan-African payment platform, offers a swift, secure, and convenient solution for individuals and businesses to seamlessly send and receive money across Africa in their preferred currencies..",
-    tools: "React.js, TailwindCss, Laravel",
+    tools: " React.js, TailwindCss, Laravel",
   },
   {
     liveLink: "https://cabashexchange.netlify.app/",
@@ -18,7 +18,7 @@ const ProjectFront = [
     projectName: "Cabash Exchange",
     description:
       "Cabash Exchange, a Pan-African payment platform, offers a swift, secure, and convenient solution for individuals and businesses to seamlessly send and receive money across Africa in their preferred currencies..",
-    tools: "React.js, TailwindCss, Laravel",
+    tools: " React.js, TailwindCss, Laravel",
   },
   {
     liveLink: "https://cabashexchange.netlify.app/",
@@ -26,7 +26,7 @@ const ProjectFront = [
     projectName: "Cabash Exchange",
     description:
       "Cabash Exchange, a Pan-African payment platform, offers a swift, secure, and convenient solution for individuals and businesses to seamlessly send and receive money across Africa in their preferred currencies..",
-    tools: "React.js, TailwindCss, Laravel",
+    tools: " React.js, TailwindCss, Laravel",
   },
 ];
 
