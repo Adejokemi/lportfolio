@@ -27,7 +27,7 @@ const ProjectsFront = ({
             href={liveLink}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-pink-600"
+            className="text-green-600"
             >
             <FaExternalLinkAlt size={20} />
           </a>
